@@ -1,0 +1,13 @@
+{
+    "name": "mrmasly/fw",
+    "description": "php framework from mrMasly",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mrMasly",
+            "email": "mrmasly@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
